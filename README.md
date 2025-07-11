@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lohisoftsro-imagegeneratordallemcp-badge.png)](https://mseep.ai/app/lohisoftsro-imagegeneratordallemcp)
+
 # DALL-E 3 MCP Server for Cursor
 
 This project provides an OpenAI DALL-E 3 image generator MCP (Model Context Protocol) server for the Cursor IDE. It allows the creation and management of DALL-E 3 generated images directly from the Cursor development environment.
